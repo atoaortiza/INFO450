@@ -6,14 +6,14 @@
 
 ---
 
-## 📌 Course Overview
+## Course Overview
 INFO 450 is a upper-level Information Systems course at VCU focused on [brief description, e.g., application development, system analysis, software design patterns, full-stack integration, and project management methodologies]. 
 
 This repository serves as a centralized hub for all code, projects, assignments, and documentation completed during the semester.
 
 ---
 
-## 🚀 Key Learning Objectives
+## Key Learning Objectives
 * **System Design & Architecture:** Developing scalable applications following modern design principles.
 * **Full-Stack Integration:** Connecting database backends with interactive frontend components.
 * **Version Control:** Utilizing Git and GitHub for source code management and collaborative workflows.
@@ -21,7 +21,7 @@ This repository serves as a centralized hub for all code, projects, assignments,
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 | Category | Technologies / Tools |
 | :--- | :--- |
 | **Languages** | [e.g., C#, Python, JavaScript, Java, SQL] |
@@ -31,7 +31,7 @@ This repository serves as a centralized hub for all code, projects, assignments,
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 ├── Module-01/          # Assignments and lab work for Module 1
 ├── Module-02/          # Assignments and lab work for Module 2
